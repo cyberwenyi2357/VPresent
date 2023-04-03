@@ -1,0 +1,27 @@
+﻿<Window x:Class="T6_SkeletonTracking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:T6_SkeletonTracking"
+        mc:Ignorable="d"
+        Title="Skeleton Tracking" Height="555.207" Width="666.561" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="18"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="depthImg" HorizontalAlignment="Left" Height="430" Margin="10,50,0,0" VerticalAlignment="Top" Width="640"/>
+
+        <Canvas x:Name="canvas" HorizontalAlignment="Left" Height="97" VerticalAlignment="Top" Width="118">
+            <Image x:Name="illustration1" HorizontalAlignment="Left" Height="75" VerticalAlignment="Top" Width="108" Source="pic1.jpg" Canvas.Left="-176" Canvas.Top="-4"/>
+        </Canvas>
+        <Image x:Name="colorImg" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="skeletonImg" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="statusTxt" HorizontalAlignment="Left" Margin="10,0,0,-1" TextWrapping="Wrap" VerticalAlignment="Bottom" FontSize="16" Grid.RowSpan="2"><Run Text="Skeleton Status"/></TextBlock>
+        <Image x:Name="ballImg" Margin="-586,-289,1213.667,765" Source="Images/cute_ball.png"/>
+        <Canvas x:Name="canvas1" HorizontalAlignment="Left" Height="29" Margin="98,215,0,0" VerticalAlignment="Top" Width="30"/>
+        <Image x:Name="pointer" HorizontalAlignment="Left" Height="15" Margin="-129,246,0,0" VerticalAlignment="Top" Width="16" Source="point.png" RenderTransformOrigin="5.178,-0.669"/>
+
+    </Grid>
+</Window>

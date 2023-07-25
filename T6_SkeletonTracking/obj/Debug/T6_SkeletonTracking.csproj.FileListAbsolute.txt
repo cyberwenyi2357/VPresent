@@ -1,0 +1,111 @@
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe.config
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.pdb
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.dll
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.xml
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csprojAssemblyReference.cache
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\MainWindow.g.cs
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\App.g.cs
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.cache
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.lref
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\MainWindow.baml
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.g.resources
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.Properties.Resources.resources
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.GenerateResource.cache
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CoreCompileInputs.cache
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CopyComplete
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.exe
+d:\OneDrive\Teaching\SM3603_19-20\Topic06-Skeleton.Tracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.pdb
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe.config
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.pdb
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.dll
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.xml
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csprojAssemblyReference.cache
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\MainWindow.g.cs
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\App.g.cs
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.cache
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.lref
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\MainWindow.baml
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.g.resources
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.Properties.Resources.resources
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.GenerateResource.cache
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CoreCompileInputs.cache
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CopyComplete
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.exe
+c:\Users\hongbofu\OneDrive - City University of Hong Kong\Teaching\SM3603_2022-23_Spring\Src\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.pdb
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe.config
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.pdb
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.dll
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.xml
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.AssemblyReference.cache
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\MainWindow.g.cs
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\App.g.cs
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.cache
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.lref
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\MainWindow.baml
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.g.resources
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.Properties.Resources.resources
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.GenerateResource.cache
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CoreCompileInputs.cache
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CopyComplete
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.exe
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.pdb
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_Content.g.cs
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Gestures\MyGuesture.gbd
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Gestures\MyGuesture1.gbd
+C:\Users\WENYi\Desktop\T6_SkeletonTracking\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\clear.wav
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\clear.wav
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Gestures\MyGuesture.gbd
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Gestures\MyGuesture1.gbd
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe.config
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.pdb
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.dll
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.xml
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.AssemblyReference.cache
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\MainWindow.g.cs
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\App.g.cs
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_Content.g.cs
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.cache
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.lref
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\MainWindow.baml
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.g.resources
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.Properties.Resources.resources
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.GenerateResource.cache
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CoreCompileInputs.cache
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CopyComplete
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.exe
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.pdb
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\T6_SkeletonTracking\bin\Debug\Gestures\MyGuesture2.gbd
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\clear.wav
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\Gestures\MyGuesture.gbd
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\Gestures\MyGuesture2.gbd
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe.config
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.exe
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\T6_SkeletonTracking.pdb
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.dll
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.xml
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.AssemblyReference.cache
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\MainWindow.g.cs
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\App.g.cs
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_Content.g.cs
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.cache
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking_MarkupCompile.lref
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\MainWindow.baml
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.g.resources
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.Properties.Resources.resources
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.GenerateResource.cache
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CoreCompileInputs.cache
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.csproj.CopyComplete
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.exe
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\obj\Debug\T6_SkeletonTracking.pdb
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\Microsoft.Speech.dll
+C:\Users\WENYi\Desktop\SM3603 Asg2 WEN Yi\SM3603 Asg2 WEN Yi\T6_SkeletonTracking\bin\Debug\Gestures\MyGestures.gbd
